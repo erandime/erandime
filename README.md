@@ -13,10 +13,10 @@ I'm Erandi, a passionate developer and tech enthusiast.
 -->
 
 ```md
-![GitHub Repo stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/username/repo?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/erandime/repo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/erandime/repo?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/erandime/repo?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/erandime/repo?style=for-the-badge)
 
 
 
