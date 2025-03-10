@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erandime&show_icons=true&theme=radical)
+![GitHub Stats](https://your-vercel-app.vercel.app/api?username=erandime&show_icons=true&theme=radical)
+
 
 
