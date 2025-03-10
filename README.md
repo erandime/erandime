@@ -11,9 +11,9 @@ I'm Erandi, a passionate developer and tech enthusiast.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stars](https://img.shields.io/github/stars/erandime/Delivery-Management-System?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/erandime/Delivery-Management-System?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/erandime/Delivery-Management-System?style=for-the-badge)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erandime&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erandime&theme=default)
+
 
 
 
