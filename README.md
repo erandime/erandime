@@ -14,7 +14,8 @@ I'm Erandi, a passionate developer and tech enthusiast.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erandime&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erandime&theme=default)
 
-![Metrics](https://github.com/erandime/metrics/blob/main/github-metrics.svg)
+![Metrics](https://github.com/your-username/metrics/blob/main/github-metrics.svg)
+
 
 
 
