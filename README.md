@@ -11,9 +11,10 @@ I'm Erandi, a passionate developer and tech enthusiast.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/erandime/Delivery-Management-System?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/erandime/repo-name?style=for-the-badge)
-![GitHub Contributors](https://img.shields.io/github/contributors/erandime/repo-name?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/erandime/Delivery-Management-System?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/erandime/Delivery-Management-System?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/erandime/Delivery-Management-System?style=for-the-badge)
+
 
 
 
