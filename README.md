@@ -12,7 +12,6 @@ I'm Erandi, a passionate developer and tech enthusiast.
 - ⚡ Fun fact: ...
 -->
 
-```md
 ![GitHub Repo stars](https://img.shields.io/github/stars/erandime/repo?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/erandime/repo?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/erandime/repo?style=for-the-badge)
