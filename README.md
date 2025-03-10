@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub Stats](https://your-vercel-app.vercel.app/api?username=erandime&show_icons=true&theme=radical)
+![Metrics](https://github.com/erandime/metrics/blob/main/github-metrics.svg)
+
 
 
 
