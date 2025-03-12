@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hey 👩‍💻
 I'm Erandi, a passionate developer and tech enthusiast.
 
 - 🔭 I’m currently working on [Movie Shelf App](https://github.com/erandime/movie-shelf-app)
