@@ -3,7 +3,7 @@
 
 <ul>🛠️ <strong>Current Projects:</strong></ul>
 <li>Movie Shelf App: Built with Node.js and PosgreSQL.</p>
-<li>Weather Now App (Currently a private repository): Developed using React.js and JSX.</p>
+<li>Weather Now App: Developed using React.js and JSX.</p>
 <ul>📚 <strong>Currently Learning:</strong></ul>
 <li>Data Analytics with Python</li>
 <li>Project and Change Management</li>  <br />
