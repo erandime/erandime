@@ -4,6 +4,6 @@
 <ul>🛠️ Current Projects:</ul>
 <li>Movie Shelf App: Built with Node.js and PosgreSQL.</p>
 <li>Weather Now App (Currently a private repository): Developed using React.js and JSX.</p>
-<ul>📚 Currently Learning:** Data Analytics with Python, Project and Change Management</ul>  <br />
+<ul>📚 Currently Learning: Data Analytics with Python, Project and Change Management</ul>  <br />
 
 <p>I am always eager to learn, innovate, and collaborate on impactful projects. Let’s connect and create something amazing! 🚀</p>
