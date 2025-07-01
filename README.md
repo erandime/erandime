@@ -27,6 +27,7 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
 ## 📚 Currently I am studying
 
 - 🔄 **Google Cybersecurity Certificate** *(In Progress)*  
-- ☁️ **Enterprise Cloud Computing in the AWS Environment** *(Current MSc Module)*
+- ☁️ **Enterprise Cloud Computing in the AWS Environment**, **Research Methods** *(Current MSc Modules)*
+- 🌐 **The Complete Full-Stack Web Development Bootcamp by Anjela Yu** *(80% Complete)*
 
 📁 Explore my Web Development, Machine Learning and other coding projects below ↓
