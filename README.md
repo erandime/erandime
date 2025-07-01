@@ -20,12 +20,13 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
 - **Software Development Practices Module**  
   - Secure coding principles  
   - Security testing techniques    
-  - Threat modeling based on the [OWASP Top 10](https://owasp.org/www-project-top-ten/), covering assets, risks, vulnerabilities, mitigation controls, control types (preventive/detective/corrective), and prioritization.
+  - Threat modeling based on the [OWASP Top 10](https://owasp.org/www-project-top-ten/), covering assets, risks, vulnerabilities, mitigation controls, control types, and prioritization.
 
-- ✅ **Cyber Security From Beginner to Expert** *(Udemy)*
+- **Cyber Security From Beginner to Expert Course on Udemy.** 
 
 ## 📚 Currently I am studying
 
 - 🔄 **Google Cybersecurity Certificate** *(In Progress)*  
 - ☁️ **Enterprise Cloud Computing in the AWS Environment** *(Current MSc Module)*
 
+📁 Explore my Web Development, Machine Learning and other coding projects below ↓
