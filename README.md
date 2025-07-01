@@ -4,12 +4,12 @@ Hi, I'm Erandi — originally from Sri Lanka and currently based in Singapore fo
 
 ---
 
-## 🎓 Academic Background
+## 📘 Education & Academic Career
 
+- 🎓 M.Sc. in Computer Science – *Final Semester*
 - 🧪 B.Sc. (Hons) in Applied Sciences – First Class  
 - 💻 Diploma in IT – BCS (The Chartered Institute for IT, UK)  
 - 🧑‍🏫 4 years of academic career before transitioning to tech  
-- 🎓 M.Sc. in Computer Science – *Final Semester*
 
 ---
 
@@ -23,11 +23,8 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
 
 - **Software Development Practices Module**  
   - Secure coding principles  
-  - Security testing techniques  
-  - - **Software Development Practices Module**  
-  - Secure coding principles  
-  - Security testing techniques  
-  - Created a **Threat Modeling Table** based on the [OWASP Top 10](https://owasp.org/www-project-top-ten/), covering assets, risks, vulnerabilities, mitigation controls, control types (preventive/detective/corrective), and prioritization.
+  - Security testing techniques    
+  - Threat modeling based on the [OWASP Top 10](https://owasp.org/www-project-top-ten/), covering assets, risks, vulnerabilities, mitigation controls, control types (preventive/detective/corrective), and prioritization.
 
 - ✅ **Cyber Security From Beginner to Expert** *(Udemy)*
 
