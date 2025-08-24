@@ -13,7 +13,7 @@ Hi, I'm Erandi — originally from Sri Lanka and currently based in Singapore fo
 
 My interest in cybersecurity was sparked through MSc coursework and additional certifications:
 
-- **Cyber Operations Module** *(Distinction)*  
+- **Cyber Operations Module**  
   - Wireshark packet capture and traffic analysis  
   - Demonstration and mitigation of real-world attacks *(MITM, Phishing, Ransomware, SQL Injection)*
 
