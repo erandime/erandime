@@ -20,8 +20,8 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
   - IAM, encryption in transit and at rest   
   - Network segmentation, VPC security, and key management (KMS)
     
- - **MSc Database Management and Security Module** 
-  - Database security concepts — authentication, access control, encryption, auditing
+- **MSc Database Management and Security Module** 
+  - Database security concepts - authentication, access control, encryption, auditing
     
 - **Cyber Security From Beginner to Expert Course on Udemy.**
   
