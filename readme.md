@@ -1,10 +1,10 @@
 # 🔐 Cybersecurity Enthusiast | MSc Computer Science (Reading)
 
-Hi, I'm Erandi — originally from Sri Lanka and currently based in Singapore for the past 2.5 years. I’m a postgraduate student deeply interested in cybersecurity and machine learning.
+Hi, I'm Erandi, originally from Sri Lanka and currently based in Singapore for the past 3 years. I’m a postgraduate student deeply interested in Cybersecurity and Machine learning.
 
 ## 📘 Education & Academic Career
 
-- 🎓 M.Sc. in Computer Science – *Final Semester*
+- 🎓 M.Sc. in Computer Science – *Coursework Completed, Final Thesis Phase*
 - 🧪 B.Sc. (Hons) in Applied Sciences – First Class  
 - 💻 Diploma in IT – BCS (The Chartered Institute for IT, UK)  
 - 🧑‍🏫 4 years of academic career before transitioning to tech  
@@ -25,10 +25,10 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
 - **Cyber Security From Beginner to Expert Course on Udemy.** 
 - **Google Cybersecurity Certificate.**
 - 
-## 📚 Currently I am studying
+## 📚 My Current Work
 
 - 🔄 **CompTIA Security+** *(In progress)*  
-- ☁️ **MSc Final Project on NLP with Transformers** *(Current MSc module)*  
+- ☁️ **MSc Final Project on NLP with Transformers**  
 - 🌐 **The Complete Full-Stack Web Development Bootcamp by Angela Yu** *(80% complete)*
 
 📁 Explore my Web Development, Machine Learning and other coding projects below ↓
