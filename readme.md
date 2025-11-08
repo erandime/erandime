@@ -30,7 +30,7 @@ My interest in cybersecurity was sparked through MSc coursework and additional c
 ## 📚 I am currently doing 
 
 - 🔄 **CompTIA Security+** *(In progress)*  
-- ☁️ **MSc Final Project on NLP with Transformers**  
+- ☁️ **MSc Final Project on NLP with Transformers**  *(20% complete)*
 - 🌐 **The Complete Full-Stack Web Development Bootcamp by Angela Yu** *(80% complete)*
 
 ## 📘 My Education & Academic Career
