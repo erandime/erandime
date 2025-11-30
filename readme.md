@@ -7,7 +7,7 @@ Hi, I'm Erandi, originally from Sri Lanka and based in Singapore for the past 3 
 My interest in cybersecurity was sparked through MSc coursework and additional certifications:
 
 - **MSc Cyber Operations Module**  
-  - Wireshark packet capture and traffic analysis  
+  - Wireshark packet capture and traffic analysis to identify network attacks (e.g., DoS, ARP network mapping, Port scanning) and malicious hosts.
   - Demonstration and mitigation of real-world attacks *(MITM, Phishing, Ransomware, SQL Injection)*
 
 - **MSc Software Development Practices Module**  
