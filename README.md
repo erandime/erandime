@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Erandi 👋
 
-<!--
-**erandime/erandime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science postgraduate based in Singapore 🇸🇬. Currently transitioning into Cybersecurity 🛡️ after a background in Scientific Computing and AI research 🤖.
 
-Here are some ideas to get you started:
+🎓 Education and Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M.Sc. in Computer Science (Distinction)
+B.Sc. (First Class Hons) 
+CompTIA Security+ Certified 
+
+🚀 Seeking opportunities in Cybersecurity and Cloud Security.
+Please check my LinkedIn and TryHackMe profiles in the links section 🔗. Mail me on 📧 erandiprabashani93@gmail.com for my Cybersecurity portfolio.
+
+Explore my Web Development, Machine Learning, and other coding projects below ↓↓↓
