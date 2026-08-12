@@ -11,6 +11,6 @@ Computer Science postgraduate based in Singapore. Currently transitioning into C
 
 Please check my LinkedIn and TryHackMe profiles in the links section 🔗.
 
-View my [Cybersecurity Projects](https://github.com/erandime/cybersecurity-portfolio) and [AWS Labs](https://github.com/erandime/aws-labs).
+View my [Cybersecurity Projects](https://github.com/erandime/cybersecurity-portfolio) and [AWS Labs](https://github.com/erandime/cloud-aws).
 
 Explore my Web Development, Machine Learning, and other coding projects below ↓↓↓
