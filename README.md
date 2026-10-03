@@ -1,6 +1,6 @@
 Hi, I’m Erandi 👋
 
-Computer Science postgraduate based in Singapore with a strong background in Scientific Computing and AI research.
+Computer Science postgraduate with a strong background in Scientific Computing and AI research.
 
 🎓 Education and Certifications
 * M.Sc. in Computer Science (Distinction)
